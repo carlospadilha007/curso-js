@@ -1,8 +1,8 @@
 const nome = "rebeca"
 const concat = "ola" + nome + "!"
 
-const template = `Olá // para declarar um tamplate string usamos o simbolo de crase
-${nome}`
+const template = `Olá 
+${nome}`// para declarar um tamplate string usamos o simbolo de crase, é semelhante as fstrings do python
 
 console.log(concat)
 console.log(template)
