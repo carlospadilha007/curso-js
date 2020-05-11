@@ -6,7 +6,7 @@
  console.log(valores)
  console.log(valores.length)
 
- valores.push({id: 3}, false, null, 'teste')
+ valores.push({id: 3}, false, null, 'teste') // adicioa valores
  console.log(valores)
 
  console.log(valores.pop())
